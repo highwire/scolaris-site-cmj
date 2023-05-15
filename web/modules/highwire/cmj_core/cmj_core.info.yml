@@ -1,0 +1,5 @@
+name: CMJ Core
+description: Core functionality for the Scolaris CMJ site
+package: 'Scolaris CMJ'
+type: module
+core: 8.x
